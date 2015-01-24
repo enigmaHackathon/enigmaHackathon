@@ -29,6 +29,10 @@ angular
         templateUrl: 'views/about.html',
         controller: 'AboutCtrl'
       })
+      .when('/elastic-search', {
+        templateUrl: 'views/elastic-search.html',
+        controller: 'elasticSearchCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
