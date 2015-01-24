@@ -2,7 +2,7 @@
 <html class="no-js">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Enigma | Translating big puzzles</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -23,18 +23,21 @@
     <!-- Add your site or application content here -->
     <div class="container">
       <div class="header">
+        <div class="logo"><img src="images/logo.png" al="Enigma" style="height: 119px;" /></div>
+      </div>
+      <div id="main-menu">
         <ul class="nav nav-pills pull-right">
           <li class="active"><a ng-href="#">Home</a></li>
           <li><a ng-href="#/about">About</a></li>
           <li><a ng-href="#">Contact</a></li>
         </ul>
-        <h3 class="text-muted">enigma</h3>
+        <div class="clr"></div>
       </div>
-
-      <div ng-view=""></div>
+      
+      <div id="main-content" ng-view=""></div>
 
       <div class="footer">
-        <p><span class="glyphicon glyphicon-heart"></span> from the Yeoman team</p>
+        Copyright &copy 2015 to Enigma team (Zaloni Inc. Hackathon 2015).
       </div>
     </div>
 
