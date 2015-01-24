@@ -10,7 +10,8 @@
  */
 angular
   .module('enigmaApp', [
-     'ngRoute'
+     'ngRoute' ,
+     'nvd3ChartDirectives'
     /*'ngAnimate',
     'ngCookies',
     'ngResource',
