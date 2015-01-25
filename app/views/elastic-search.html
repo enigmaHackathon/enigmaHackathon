@@ -1,12 +1,14 @@
 <h5>Elastic Search</h5>
 <div class="jumbotron">
     <div>
-        <nvd3-line-chart
+        <nvd3-pie-chart
                 data="exampleData"
-                showXAxis="true"
-                showYAxis="true"
+                x="xFunction()"
+                y="yFunction()"
+                width="550"
+                height="350"
                 tooltips="true"
-                interactive="true">
-        </nvd3-line-chart>
+                showLabels="true">
+        </nvd3-pie-chart>
     </div>
 </div>
