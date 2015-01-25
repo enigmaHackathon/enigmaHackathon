@@ -41,5 +41,19 @@ angular.module('enigmaApp')
                     deferred.reject('There was an error')
                 })
             return deferred.promise;
+        };
+        this.getEntityCountTime = function(facetType) {
+            var facet = '&facet.field=' + facetType + '&rows=0&facet=true';
+            var deferred = $q.defer();
+            var facetResults = [];
+            $http({
+                method: 'GET',
+                url: 'http://localhost:8983/solr/enigmaHackathon/app/sample-json/line-chart.json'
+            }).success(function(result){
+                    deferred.resolve(result);
+                }).error(function(){
+                    deferred.reject('There was an error')
+                })
+            return deferred.promise;
         }
   });

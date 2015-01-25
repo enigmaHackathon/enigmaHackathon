@@ -8,8 +8,8 @@
  * Controller of the enigmaApp
  */
 angular.module('enigmaApp')
-    .controller('MainCtrl', ['$scope', 'solrSrv',function ($scope, enigmaSrv) {
-    //.controller('MainCtrl', ['$scope', 'elasticSearchSrv',function ($scope, enigmaSrv) {
+    //.controller('MainCtrl', ['$scope', 'solrSrv',function ($scope, enigmaSrv) {
+    .controller('MainCtrl', ['$scope', 'elasticSearchSrv',function ($scope, enigmaSrv) {
     $scope.getEnigmaSrv = enigmaSrv;
     $scope.dashboard = {
         rows:[
