@@ -3,7 +3,8 @@ body {
 }
 .header {
   background: #2A596D;/*url('../images/header-bg.png') repeat-x;*/
-  padding: 10px 0 5px;
+  border-bottom: 3px solid #d09700;
+  padding: 10px 0 0;
 }
 .logo {
   margin-left: 4%;
@@ -35,7 +36,7 @@ body {
 #main-content {
   background: url('../images/white-bg.png') repeat;
   min-height: 500px;
-  padding: 20px 4%;
+  padding: 5px 4%;
 }
 .footer {
   background: url('../images/header-bg.png') repeat-x;
