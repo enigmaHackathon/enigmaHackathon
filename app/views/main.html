@@ -1,18 +1,13 @@
 <div class="enigma-pan">
   <div ng-repeat="row in dashboard.rows">
     <div ng-repeat="panel in row.panels">
-        <div ng-switch="">
+        <div ng-switch="panel.type">
+            <div ng-switch-when="pie">
+                    <div ng-include="'panels/pie/pie.html'"></div>
+            </div>
+            <div ng-switch-when="line">...</div>
+            <div ng-switch-default><span>Invalid type</span></div>
         </div>
-        <nvd3-pie-chart
-              data="exampleData"
-              id="exampleId"
-              width="550"
-              height="350"
-              x="xFunction()"
-              y="yFunction()"
-              showLabels="true">
-          <svg></svg>
-        </nvd3-pie-chart>
     </div>
   </div>
 </div>
