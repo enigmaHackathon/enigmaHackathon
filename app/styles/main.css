@@ -4,10 +4,11 @@ body {
 .header {
   background: #2A596D;/*url('../images/header-bg.png') repeat-x;*/
   border-bottom: 3px solid #d09700;
-  padding: 10px 0 0;
+  padding: 5px 0 0;
 }
 .logo {
-  margin-left: 4%;
+  height: 57px;
+  margin-left: 60px;
 }
 .clr {
   clear: both;
