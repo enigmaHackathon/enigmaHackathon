@@ -12,8 +12,8 @@ angular.module('enigmaApp')
     $scope.getEnigmaSrv = enigmaSrv;
     $scope.dashboard = {
         rows:[
-            {row_info:'',panels:[{'id':'p1', type:'pie'},{'id':'p2', type:'pie'}]},
-            {row_info:'',panels:[{'id':'p3', type:'pie'},{'id':'p4', type:'pie'}]}
+            {row_info:'',panels:[{'id':'p1', type:'pie'},{'id':'p2', type:'bar'}]},
+            {row_info:'',panels:[{'id':'p3', type:'line'},{'id':'p4', type:'pie'}]}
         ]
     };
   }]);
