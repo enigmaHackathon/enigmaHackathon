@@ -1,11 +1,13 @@
-<div class="jumbotron">
-    <div>
-        <nvd3-line-chart
-                data="exampleData"
-                showXAxis="true"
-                showYAxis="true"
-                tooltips="true"
-                interactive="true">
-        </nvd3-line-chart>
+<div class="enigma-pan">
+  <div ng-repeat="row in dashboard.rows">
+    <div ng-repeat="panel in row.panels">
+        <div ng-switch="panel.type">
+            <div ng-switch-when="pie">
+                    <div ng-include="'panels/pie/pie.html'"></div>
+            </div>
+            <div ng-switch-when="line">...</div>
+            <div ng-switch-default><span>Invalid type</span></div>
+        </div>
     </div>
+  </div>
 </div>
