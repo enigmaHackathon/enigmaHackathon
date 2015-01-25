@@ -16,5 +16,5 @@ angular.module('enigmaApp')
             {row_info:'',panels:[{'id':'p1', type:'pie'},{'id':'p2', type:'line'}]},
             {row_info:'',panels:[{'id':'p3', type:'stackedAreaChart'},{'id':'p4', type:'bar'}]}
         ]
-    };
+    }
   }]);
