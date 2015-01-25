@@ -1,13 +1,14 @@
-<div class="enigma-pan">
-  <div ng-repeat="row in dashboard.rows">
-    <div ng-repeat="panel in row.panels">
+<div>
+  <div class="enigma-row" ng-repeat="row in dashboard.rows">
+    <div class="enigma-pan" ng-repeat="panel in row.panels">
         <div ng-switch="panel.type">
             <div ng-switch-when="pie">
-                    <div ng-include="'panels/pie/pie.html'"></div>
+              <div ng-include="'panels/pie/pie.html'"></div>
             </div>
             <div ng-switch-when="line">...</div>
             <div ng-switch-default><span>Invalid type</span></div>
         </div>
     </div>
   </div>
+  <div class="clr"></div>
 </div>

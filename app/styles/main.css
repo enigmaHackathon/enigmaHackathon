@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 .header {
-  background: url('../images/header-bg.png') repeat-x;
+  background: #2A596D;/*url('../images/header-bg.png') repeat-x;*/
   height: 120px;
 }
 .logo {
@@ -34,7 +34,7 @@ body {
   text-decoration: none;
 }
 #main-content {
-  background: url('../images/bg.png') repeat;
+  background: url('../images/white-bg.png') repeat;
   min-height: 500px;
   padding: 20px 4%;
 }
@@ -44,12 +44,17 @@ body {
   padding: 20px 4%;
   text-align: center;
 }
+.enigma-row {
+  clear: both;
+}
 .enigma-pan {
   background: #fff;
   border: 1px solid #ddd;
-  margin: 0 5px 10px;
+  float: left;
+  margin: 0 10px 10px;
   padding: 5px 10px;
+  width: 45%;
 }
 .enigma-pan:hover {
-  border: 1px solid #007CB7;
+  border: 1px solid #74B73F;
 }
