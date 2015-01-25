@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+.header {
+  background: url('../images/header-bg.png') repeat-x;
+  height: 120px;
+}
+.logo {
+  height: 120px;
+  margin-left: 3%;
+}
+.clr {
+  clear: both;
+}
+#main-menu {
+  background: #95181D;/*#F0B31E;*/
+  padding: 0 4%;
+}
+#main-menu ul {
+  margin: 0;
+  padding: 0;
+}
+#main-menu ul li {
+  float: left;
+  list-style: none;
+}
+#main-menu ul li:hover {
+  background: #95181D;
+}
+#main-menu ul li a {
+  color: #fff;
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+#main-content {
+  background: url('../images/bg.png') repeat;
+  min-height: 500px;
+  padding: 20px 4%;
+}
+.footer {
+  background: url('../images/header-bg.png') repeat-x;
+  color: #fff;
+  padding: 20px 4%;
+  text-align: center;
+}
+.enigma-pan {
+  background: #fff;
+  border: 1px solid #ddd;
+  margin: 0 5px 10px;
+  padding: 5px 10px;
+}
+.enigma-pan:hover {
+  border: 1px solid #007CB7;
+}
