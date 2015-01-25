@@ -14,7 +14,7 @@ angular.module('enigmaApp')
     $scope.dashboard = {
         rows:[
             {row_info:'',panels:[{'id':'p1', type:'line'},{'id':'p2', type:'bar'}]},
-            {row_info:'',panels:[{'id':'p3', type:'line'},{'id':'p4', type:'pie'}]}
+            {row_info:'',panels:[{'id':'p3', type:'stackedAreaChart'},{'id':'p4', type:'pie'}]}
         ]
     };
   }]);
