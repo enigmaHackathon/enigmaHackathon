@@ -3,11 +3,10 @@ body {
 }
 .header {
   background: #2A596D;/*url('../images/header-bg.png') repeat-x;*/
-  height: 120px;
+  padding: 10px 0 5px;
 }
 .logo {
-  height: 120px;
-  margin-left: 3%;
+  margin-left: 4%;
 }
 .clr {
   clear: both;
@@ -46,6 +45,7 @@ body {
 }
 .enigma-row {
   clear: both;
+  margin-bottom: 15px;
 }
 .enigma-pan {
   background: #fff;
