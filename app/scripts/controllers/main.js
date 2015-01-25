@@ -13,8 +13,8 @@ angular.module('enigmaApp')
     $scope.getEnigmaSrv = enigmaSrv;
     $scope.dashboard = {
         rows:[
-            {row_info:'',panels:[{'id':'p1', type:'line'},{'id':'p2', type:'bar'}]},
-            {row_info:'',panels:[{'id':'p3', type:'stackedAreaChart'},{'id':'p4', type:'pie'}]}
+            {row_info:'',panels:[{'id':'p1', type:'line'},{'id':'p3', type:'stackedAreaChart'}]},
+            {row_info:'',panels:[{'id':'p2', type:'bar'},{'id':'p4', type:'pie'}]}
         ]
     };
   }]);
