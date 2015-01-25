@@ -10,6 +10,8 @@
     <file path="/enigma.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422093825459" ignored="false" />
     <file path="/solr.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422092455931" ignored="false" />
     <file path="/main.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422104636673" ignored="false" />
+    <file path="/solr.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422107368684" ignored="false" />
+    <file path="/soleCtrl.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422109018559" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,7 @@
       <file leaf-file-name="objectBrowserSrv.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/services/objectBrowserSrv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="48" selection-start="72" selection-end="83" vertical-scroll-proportion="0.0">
+            <state line="24" column="7" selection-start="294" selection-end="851" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -41,7 +43,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="36" selection-start="511" selection-end="511" vertical-scroll-proportion="10.461538">
+            <state line="76" column="49" selection-start="2996" selection-end="2996" vertical-scroll-proportion="-15.076923">
               <folding />
             </state>
           </provider>
@@ -50,7 +52,25 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="25" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+            <state line="29" column="29" selection-start="555" selection-end="563" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="soleCtrl.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/scripts/controllers/soleCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="46" selection-start="371" selection-end="371" vertical-scroll-proportion="0.34931508">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="solrsrv.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/solrsrv.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="32" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -59,10 +79,8 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="323" selection-end="334" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1422104419337" expanded="true" signature="214:4727" placeholder="{...}" />
-              </folding>
+            <state line="19" column="26" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,43 +88,25 @@
       <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="10" selection-start="33" selection-end="33" vertical-scroll-proportion="-0.65384614">
+            <state line="3" column="33" selection-start="81" selection-end="92" vertical-scroll-proportion="-1.9615384">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="objectBrowserController.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/objectBrowserController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="5" selection-start="23" selection-end="30" vertical-scroll-proportion="0.05821918">
+            <state line="86" column="41" selection-start="4232" selection-end="4377" vertical-scroll-proportion="-7.96">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/about.html">
+      <file leaf-file-name="solr.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/solr.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="40" selection-start="131" selection-end="138" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="39" selection-start="4143" selection-end="4215" vertical-scroll-proportion="0.0">
+            <state line="0" column="24" selection-start="3" selection-end="24" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -135,10 +135,13 @@
         <option value="$PROJECT_DIR$/app/services/solr.js" />
         <option value="$PROJECT_DIR$/app/enigma.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/views/solr.html" />
+        <option value="$PROJECT_DIR$/app/scripts/services/solrsrv.js" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/soleCtrl.js" />
       </list>
     </option>
   </component>
@@ -253,6 +256,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enigma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enigma" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="services" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -397,36 +422,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="20" selection-start="2306" selection-end="2306" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="41" selection-start="590" selection-end="590" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="227" selection-end="240" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1422104419337" expanded="true" signature="214:4727" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -455,53 +450,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="39" selection-start="4143" selection-end="4215" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/services/objectBrowserSrv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="48" selection-start="72" selection-end="83" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="25" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="323" selection-end="334" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1422104419337" expanded="true" signature="214:4727" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="40" selection-start="131" selection-end="138" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="36" selection-start="511" selection-end="511" vertical-scroll-proportion="10.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="33" selection-end="33" vertical-scroll-proportion="-0.65384614">
           <folding />
         </state>
       </provider>
@@ -509,6 +460,76 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="5" selection-start="23" selection-end="30" vertical-scroll-proportion="0.05821918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="39" selection-start="4143" selection-end="4215" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="29" selection-start="555" selection-end="563" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/services/objectBrowserSrv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="7" selection-start="294" selection-end="851" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="49" selection-start="2996" selection-end="2996" vertical-scroll-proportion="-15.076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/solrsrv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="32" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="33" selection-start="81" selection-end="92" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="26" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/solr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="24" selection-start="3" selection-end="24" vertical-scroll-proportion="-0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/objectBrowserController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="41" selection-start="4232" selection-end="4377" vertical-scroll-proportion="-7.96">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/soleCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="46" selection-start="371" selection-end="371" vertical-scroll-proportion="0.34931508">
           <folding />
         </state>
       </provider>
