@@ -40,11 +40,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="49" selection-start="3308" selection-end="3308" vertical-scroll-proportion="-15.076923">
-              <folding />
+            <state line="78" column="59" selection-start="3142" selection-end="3142" vertical-scroll-proportion="0.6880734">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,10 +60,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="soleCtrl.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="soleCtrl.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/soleCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="46" selection-start="371" selection-end="371" vertical-scroll-proportion="0.34931508">
+            <state line="12" column="46" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,10 +140,10 @@
         <option value="$PROJECT_DIR$/app/views/main.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/views/solr.html" />
         <option value="$PROJECT_DIR$/app/scripts/services/solrsrv.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/soleCtrl.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
       </list>
     </option>
   </component>
@@ -340,7 +342,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -471,23 +473,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="29" selection-start="555" selection-end="563" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/services/objectBrowserSrv.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="7" selection-start="294" selection-end="851" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="49" selection-start="3308" selection-end="3308" vertical-scroll-proportion="-15.076923">
           <folding />
         </state>
       </provider>
@@ -529,8 +517,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/soleCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="46" selection-start="371" selection-end="371" vertical-scroll-proportion="0.34931508">
+        <state line="12" column="46" selection-start="371" selection-end="371" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="29" selection-start="555" selection-end="563" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="59" selection-start="3142" selection-end="3142" vertical-scroll-proportion="0.6880734">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
