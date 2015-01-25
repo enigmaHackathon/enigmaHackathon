@@ -30,4 +30,25 @@ angular.module('enigmaApp')
                 })
             return deferred.promise;
         }
+        this.getEntityCountTime = function(facetType) {
+            var facet = '&facet.field=' + facetType + '&rows=0&facet=true';
+            var deferred = $q.defer();
+            var facetResults = [];
+            $http({
+                method: 'GET',
+                url: solrUrl + facet
+            }).success(function(result){
+                    var tempRes = result.facet_counts.facet_fields[facetType];
+                    for(var i=0;i <tempRes.length;i++)  {
+                        var tempTimestamp = moment(tempRes[i]).utc().valueOf();
+                        facetResults.push([tempTimestamp, tempRes[i+1]]);
+                        i++;
+                    }
+                    console.log('banajit',facetResults);
+                    deferred.resolve(facetResults);
+                }).error(function(){
+                    deferred.reject('There was an error')
+                })
+            return deferred.promise;
+        }
   });

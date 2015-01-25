@@ -5,20 +5,21 @@
     <ignored path="enigma.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422078139985" ignored="false" />
-    <file path="/index.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422182768789" ignored="false" />
+    <file path="/index.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422189999667" ignored="false" />
     <file path="/require.config.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422093225165" ignored="false" />
     <file path="/enigma.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422093825459" ignored="false" />
     <file path="/solr.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422092455931" ignored="false" />
     <file path="/main.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422182850616" ignored="false" />
     <file path="/solr.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422107368684" ignored="false" />
     <file path="/soleCtrl.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422164702227" ignored="false" />
-    <file path="/solrsrv.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422171520440" ignored="false" />
+    <file path="/solrsrv.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422190072579" ignored="false" />
     <file path="/main.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422170166270" ignored="false" />
     <file path="/pie.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422173352277" ignored="false" />
     <file path="/pie.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422173753816" ignored="false" />
     <file path="/barChart.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422179183044" ignored="false" />
     <file path="/barChart.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422181586502" ignored="false" />
     <file path="/lineChart.html" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422183080139" ignored="false" />
+    <file path="/lineChart.js" changelist="3f63d0d3-ba49-4e60-b682-fe6d709222be" time="1422190582245" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +39,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
+      <file leaf-file-name="lineChart.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/panels/lineChart/lineChart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="83" column="61" selection-start="3459" selection-end="3459" vertical-scroll-proportion="-16.384615">
+            <state line="15" column="33" selection-start="571" selection-end="571" vertical-scroll-proportion="-9.807693">
               <folding />
             </state>
           </provider>
@@ -50,43 +51,43 @@
       <file leaf-file-name="lineChart.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/panels/lineChart/lineChart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
+            <state line="12" column="20" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lineChart.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/panels/lineChart/lineChart.html">
+      <file leaf-file-name="barChart.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/panels/barChart/barChart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="27" selection-start="194" selection-end="194" vertical-scroll-proportion="-3.2692308">
+            <state line="11" column="19" selection-start="453" selection-end="453" vertical-scroll-proportion="0.26795095">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="6" selection-start="256" selection-end="256" vertical-scroll-proportion="0.3321492">
+            <state line="11" column="6" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="74" selection-start="675" selection-end="675" vertical-scroll-proportion="-9.153846">
+            <state line="74" column="37" selection-start="2894" selection-end="2894" vertical-scroll-proportion="-11.346154">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pie.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/panels/pie/pie.html">
+      <file leaf-file-name="solrsrv.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/scripts/services/solrsrv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="30" selection-start="94" selection-end="130" vertical-scroll-proportion="-7.1923075">
+            <state line="33" column="61" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,34 +96,7 @@
       <file leaf-file-name="stackedAreaChart.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/panels/stackedAreaChart/stackedAreaChart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="10" selection-start="18212" selection-end="18212" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stackedAreaChart.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/panels/stackedAreaChart/stackedAreaChart.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="36" selection-start="20" selection-end="36" vertical-scroll-proportion="-0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="barChart.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/panels/barChart/barChart.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="143" selection-start="2789" selection-end="2789" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="barChart.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/panels/barChart/barChart.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="76" selection-start="158" selection-end="158" vertical-scroll-proportion="-2.6153846">
+            <state line="36" column="19" selection-start="5065" selection-end="18201" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,20 +122,20 @@
       <list>
         <option value="$PROJECT_DIR$/app/scripts/controllers/soleCtrl.js" />
         <option value="C:/wamp/www/hackathon/enigma/app/scripts/panels/pie.html" />
-        <option value="$PROJECT_DIR$/app/scripts/services/solrsrv.js" />
         <option value="C:/wamp/www/hackathon/enigma/app/scripts/panels/pie/pie.js" />
         <option value="C:/wamp/www/hackathon/enigma/app/scripts/panels/pie/pie.html" />
         <option value="$PROJECT_DIR$/app/panels/pie/pie.js" />
-        <option value="$PROJECT_DIR$/app/panels/barChart/barChart.js" />
-        <option value="$PROJECT_DIR$/app/panels/lineChart/lineChart.js" />
         <option value="$PROJECT_DIR$/app/panels/pie/pie.html" />
         <option value="$PROJECT_DIR$/app/panels/lineChart/lineChart.html" />
         <option value="$PROJECT_DIR$/app/panels/barChart/barChart.html" />
-        <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/panels/stackedAreaChart/stackedAreaChart.js" />
         <option value="$PROJECT_DIR$/app/panels/stackedAreaChart/stackedAreaChart.html" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/panels/stackedAreaChart/stackedAreaChart.js" />
+        <option value="$PROJECT_DIR$/app/scripts/services/solrsrv.js" />
+        <option value="$PROJECT_DIR$/app/panels/lineChart/lineChart.js" />
+        <option value="$PROJECT_DIR$/app/panels/barChart/barChart.js" />
       </list>
     </option>
   </component>
@@ -310,6 +284,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enigmaHackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enigmaHackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="panels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enigmaHackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enigmaHackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="panels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lineChart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enigmaHackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="enigmaHackathon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="panels" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="barChart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -428,13 +464,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/solr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/dev/apache-tomcat-7.0.25/old/cstonedev/cornerstone/scripts/controllers/extraction/query-wizard.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="123" column="377" selection-start="5553" selection-end="5647" vertical-scroll-proportion="-7.28">
@@ -458,23 +487,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/services/solrsrv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="27" selection-start="287" selection-end="301" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/panels/pie/pie.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="36" selection-start="615" selection-end="615" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/panels/barChart/barChart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="143" selection-start="2789" selection-end="2789" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -486,37 +501,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/panels/lineChart/lineChart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="21" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/panels/pie/pie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="30" selection-start="94" selection-end="130" vertical-scroll-proportion="-7.1923075">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/panels/lineChart/lineChart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="27" selection-start="194" selection-end="194" vertical-scroll-proportion="-3.2692308">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="61" selection-start="3459" selection-end="3459" vertical-scroll-proportion="-16.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/panels/stackedAreaChart/stackedAreaChart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="10" selection-start="18212" selection-end="18212" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -535,9 +522,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/panels/lineChart/lineChart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="33" selection-start="571" selection-end="571" vertical-scroll-proportion="-9.807693">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="37" selection-start="2894" selection-end="2894" vertical-scroll-proportion="-11.346154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/NetApp Proj/branches/Neuro-POC/src/main/webapp/scripts/objectBrowserController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="68" selection-start="8374" selection-end="8413" vertical-scroll-proportion="-7.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/panels/stackedAreaChart/stackedAreaChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="19" selection-start="5065" selection-end="18201" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/services/solrsrv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="61" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="6" selection-start="256" selection-end="256" vertical-scroll-proportion="0.3321492">
+        <state line="11" column="6" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/panels/lineChart/lineChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/panels/barChart/barChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="19" selection-start="453" selection-end="453" vertical-scroll-proportion="0.26795095">
           <folding />
         </state>
       </provider>
